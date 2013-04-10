@@ -1,0 +1,23 @@
+{
+    "name": "kbsali/sitemap-serializer",
+    "description": "A simple way to generate sitemaps",
+    "license": "MIT",
+    "keywords": ["sitemap", "xml"],
+    "authors": [
+        {
+            "name": "Kevin Saliou",
+            "email": "kevin@saliou.name",
+            "homepage": "http://saliou.name",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability" : "stable",
+    "require": {
+        "symfony/serializer": "2.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Sitemap": "lib/"
+        }
+    }
+}
