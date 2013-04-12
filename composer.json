@@ -1,6 +1,6 @@
 {
     "name": "kbsali/sitemap-serializer",
-    "description": "A simple way to generate sitemaps",
+    "description": "A simple way to generate sitemaps using Symfony2's Serializer Component",
     "license": "MIT",
     "keywords": ["sitemap", "xml"],
     "authors": [
